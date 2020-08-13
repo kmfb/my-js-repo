@@ -19,6 +19,7 @@
   "scripts": {
     "serve": "webpack-dev-server",
     "build": "webpack",
-    "test": "jest"
+    "test": "jest",
+    "commit": "npx git-cz"
   }
 }

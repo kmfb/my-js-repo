@@ -11,8 +11,4 @@ const bubbleSort = (arr: Array<Number>) => {
   return arr;
 };
 
-const testArr = [8, 2, 3, 4, 1, 9, 4];
-
-const res = bubbleSort(testArr);
-
-res;
+export default bubbleSort;
